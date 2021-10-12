@@ -1,0 +1,9 @@
+swagger 3.0
+
+http://localhost:8080/swagger-ui/index.html#/
+
+http://localhost:8080/login
+
+http://localhost:8080/logout
+
+
